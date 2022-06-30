@@ -1,0 +1,16 @@
+{
+  "name": "realtime_web",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agung Dwi Sahputra",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^2",
+    "winston": "^3.6.0"
+  }
+}
