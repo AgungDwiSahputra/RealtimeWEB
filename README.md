@@ -19,9 +19,9 @@ PHP version 7.3 or higher is required
 
 Selesai...
 
-** Jika terjadi error pastikan path PHP telah di tambahkan
-** Jika terjadi error di luar itu maka perlu mengaktifkan intl pada php.ini di Xampp
+** Jika terjadi error pastikan path PHP telah di tambahkan<br>
+** Jika terjadi error di luar itu maka perlu mengaktifkan intl pada php.ini di Xampp<br>
 
-/* AKUN ADMIN */
-username : admin
-password : admin
+/* AKUN ADMIN */<br>
+username : admin<br>
+password : admin<br>
