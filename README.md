@@ -1,7 +1,12 @@
 # CodeIgniter 4 Application Realtime WEB
 
 ## Server Requirements
-PHP version 7.3 or higher is required
+| Version | Supported          |
+| ------- | ------------------ |
+| 7.x.x   | :white_check_mark: |
+| 5.x.x   | :white_check_mark: |
+| 4.x.x   | :x:                |
+| < 4.0   | :x:                |
 
 ## Install Steps
 1. Install XAMPP, dan NODEJS.
