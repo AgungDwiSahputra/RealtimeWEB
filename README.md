@@ -19,7 +19,7 @@
 4. Pada folder "SERVER_JS" buka terminal lalu install dependencies(express,socket.io,winston) dengan perintah "npm install".
 5. Pada terminal yang sama ketikan perintah "node server.js" untuk menjalankan server.
    **Biarkan terminal tetap hidup[JANGAN DI CLOSE].
-6. Lalu, Buka folder "realtime_ci4" buka terminal lalu run website dengan perintah "php spark serve", (default berjalan di : http://localhost:8080/).
+6. Lalu, Buka terminal lalu run website dengan perintah "php spark serve", (default berjalan di : http://localhost:8080/).
 7. Buka browser dan ketikan http://localhost:8080 pada url. 
 
 Selesai...
